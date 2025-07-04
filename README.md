@@ -1,5 +1,5 @@
 # Knihovna
-# Jednoduchá webová aplikace pro správu knih pomocí PHP a MySQL. Umožňuje provádět základní operace CRUD.
+## Jednoduchá webová aplikace pro správu knih pomocí PHP a MySQL. Umožňuje provádět základní operace CRUD.
 
 ## 🔧 Funkce
 
